@@ -11,6 +11,7 @@ public class AreaRect
       bre=sc.nextInt();
       area=len*bre;
       System.out.println("Area of rectangle:"+area);
+      System.out.println("Area of rectangle:"+area);
    }
 }
       
